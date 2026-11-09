@@ -1,4 +1,6 @@
-﻿# Focus Rainmeter skin
+﻿![Focus skin](screenshot.png)
+
+# Focus Rainmeter skin
 
 Rainmeter focus tracker card (25 minute ring, state, keep-working hold).
 
@@ -18,3 +20,4 @@ written by a local toolkit; no credentials or account data live here.
    The skin expects its toolkit under `%ToolsRoot%\focus`.
    The Lua helpers, if present, have a `PATH` constant near the top with
    the same value in forward-slash form.
+

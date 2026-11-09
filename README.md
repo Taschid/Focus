@@ -4,7 +4,7 @@
 
 Rainmeter focus tracker card (25 minute ring, state, keep-working hold).
 
-The skin is an extension of [ActivityWatch](https://activitywatch.net/): it reads
+The skin is an extension of [ActivityWatch](https://activitywatch.net/) ([GitHub](https://github.com/ActivityWatch/activitywatch)): it reads
 the same window/app activity, uses the same category names and colours, and pairs
 with `focus_aw_sync.py --push` so the focus stretches and the ActivityWatch
 timeline stay in step. Focus adds the things ActivityWatch does not show on the
